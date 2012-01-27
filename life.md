@@ -1,5 +1,5 @@
-There was no window in the room. In fact, because the room was so big, he didn't even know if it was a room. There was expanse of darkness. And there was uncertainity about what lied, if at all, at the boundary of the room. At first, he used to keep walking around; sometimes in a pattern, sometimes in circle. But soon he realized the meaninglessness and he was no longer intrigued with the question of what lied beyond. He had accepted it. And, he was left without a goal. For a long time, he stumbled and tried to do whatever he wanted to do at that time. It left him very unsatisfied.
+There was no window in the room. In fact, because the room was so big, he didn't even know if it was a room. There was expanse of darkness. And there was uncertainty about what lied, if at all, at the boundary of the room. At first, he used to keep walking around; sometimes in a pattern, sometimes in circle. But soon he realized the meaninglessness and he was no longer intrigued with the question of what lied beyond. He had accepted it. And, he was left without a goal. For a long time, he stumbled and tried to do whatever he wanted to do at that time. It left him very unsatisfied.
 
 He started keeping a log of events. And then questioning the motive. He started learning things and creating stuff. He took an interest in learning things and excelling at stuff. Striving to make a better piece of art, a better song every time. He failed miserably at times. And got bored and lost interest and wanted to sleep.
 
-He feels everything.
+He felt different things and felt everything.
