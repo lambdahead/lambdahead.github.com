@@ -17,12 +17,12 @@ Other links
 
 A handy notepad
 
-    document.body.innerHTML='&lt;textarea cols=80 rows=24 style="background-color: black; color: white" /&gt;'
+    document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: white" />'
 
 <script>
 	function launchNotepad() {
 		document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: white" />'
 	}
 </script>
-<a onclick="launchNotepad()">launch</a>
+<input type=button onclick="launchNotepad()">launch</a>
 
