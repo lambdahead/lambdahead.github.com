@@ -7,7 +7,22 @@ Read my rants
 - [scala is boring](scala-boring.html)
 - [list is for psycopaths](lisp-psycopaths.html)
 
+
 Other links
 
+- [mostly coffeescript + node.js one liners](oneliners.html)
+- [browsing stuff + api usage examples](dialogues.html)
+- [shortcut urls, majorly templates eg, google search](urltemplates.html)
 - [hackers in mainstream media](news.html)
+
+A handy notepad
+
+    document.body.innerHTML='&lt;textarea cols=80 rows=24 style="background-color: black; color: white" /&gt;'
+
+<script>
+	function launchNotepad() {
+		document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: white" />'
+	}
+</script>
+<a onclick="launchNotepad()">launch</a>
 

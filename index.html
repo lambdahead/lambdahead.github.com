@@ -8,5 +8,18 @@
 </ul>
 <p>Other links</p>
 <ul>
+<li><a href="oneliners.html">mostly coffeescript + node.js one liners</a></li>
+<li><a href="dialogues.html">browsing stuff + api usage examples</a></li>
+<li><a href="urltemplates.html">shortcut urls, majorly templates eg, google search</a></li>
 <li><a href="news.html">hackers in mainstream media</a></li>
 </ul>
+<p>A handy notepad</p>
+<pre><code>document.body.innerHTML='&amp;lt;textarea cols=80 rows=24 style="background-color: black; color: white" /&amp;gt;'
+</code></pre>
+<script>
+    function launchNotepad() {
+        document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: white" />'
+    }
+</script>
+
+<p><a onclick="launchNotepad()">launch</a></p>
