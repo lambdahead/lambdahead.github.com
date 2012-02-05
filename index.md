@@ -24,5 +24,5 @@ A handy notepad
 		document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: white" />'
 	}
 </script>
-<input type=button onclick="launchNotepad()">launch</a>
+<input type=button value=launch onclick="launchNotepad()"></input>
 
