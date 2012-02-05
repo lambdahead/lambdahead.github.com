@@ -21,7 +21,7 @@ A handy notepad
 
 <script>
 	function launchNotepad() {
-		document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: #AA" />'
+		document.body.innerHTML='<textarea cols=80 rows=24 style="background-color: black; color: #AAA" />'
 	}
 </script>
 <input type=button value=launch onclick="launchNotepad()"></input>
